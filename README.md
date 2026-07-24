@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/sujayv26/Leetcode---Solutions/tree/master/0014-longest-common-prefix) |
 | [0036-valid-sudoku](https://github.com/sujayv26/Leetcode---Solutions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/sujayv26/Leetcode---Solutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/sujayv26/Leetcode---Solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/sujayv26/Leetcode---Solutions/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/sujayv26/Leetcode---Solutions/tree/master/0049-group-anagrams) |
 ## Sorting
 |  |
@@ -68,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/sujayv26/Leetcode---Solutions/tree/master/0219-contains-duplicate-ii) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/sujayv26/Leetcode---Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
