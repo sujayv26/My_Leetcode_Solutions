@@ -1,9 +1,15 @@
 class Solution(object):
     def twoSum(self, numbers, target):
-        mp = defaultdict(int)
-        for i in range(len(numbers)):
-            tmp = target - numbers[i]
-            if mp[tmp]:
-                return [mp[tmp], i + 1]
-            mp[numbers[i]] = i + 1
+        l = 0
+        r = len(numbers)-1
+
+        while l < r :
+            curSum = numbers[l] + numbers[r]
+
+            if curSum > target :
+                r -= 1
+            elif curSum < target :
+                l += 1
+            else :
+                return[l+1 , r+1]
         return []
