@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sujayv26/Leetcode---Solutions/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/sujayv26/Leetcode---Solutions/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/sujayv26/Leetcode---Solutions/tree/master/0125-valid-palindrome) |
 ## Sorting
 |  |
 | ------- |
@@ -74,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sujayv26/Leetcode---Solutions/tree/master/0014-longest-common-prefix) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/sujayv26/Leetcode---Solutions/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
